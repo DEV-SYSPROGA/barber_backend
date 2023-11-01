@@ -32,3 +32,5 @@ pk_live_51O4TjzD1frNThlpjMk7MlKicCcI82dxhCmpIZdRu1njL9sOr82ZETHgPncKUEJmjJbSEqDz
 
 yarn add stripe
 yarn add @stripe/stripe-js
+
+
